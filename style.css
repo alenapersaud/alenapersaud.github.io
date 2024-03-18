@@ -1,9 +1,5 @@
-html {
-    color: purple;
-    background-color: lavender;
-    text-align: center;
 body {
-    font-family: '', ;
+    font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -27,7 +23,7 @@ section {
     border-radius: 5px;
 }
 
-h1, h3 {
+h1, h2 {
     color: red;
 }
 
