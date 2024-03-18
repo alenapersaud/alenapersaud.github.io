@@ -3,13 +3,13 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: red;
-    color: black;
+    background-color: lightskyblue;
+    color: gray;
 }
 
 header {
     background-color: black;
-    color: red;
+    color: lightskyblue;
     text-align: center;
     padding: 1px 0;
 }
@@ -18,13 +18,13 @@ section {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: green;
+    background-color: lavender;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
 }
 
 h1, h2 {
-    color: red;
+    color: lightskyblue;
 }
 
 ul {
@@ -37,8 +37,8 @@ li {
 }
 
 footer {
-    background-color: red;
-    color: black;
+    background-color: lightskyblue;
+    color: gray;
     text-align: center;
     padding: 1em 0;
     position: fixed;
